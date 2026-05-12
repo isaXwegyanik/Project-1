@@ -9,6 +9,7 @@ A brief description of what this project does and who it's for
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+<img width="6000" height="3375" alt="Minimal Modern You Are Enough Quote Desktop Wallpaper" src="https://github.com/user-attachments/assets/fe862df4-2c16-4c2a-ae23-09858bd2c6cb" />
 
 
 ## Appendix
